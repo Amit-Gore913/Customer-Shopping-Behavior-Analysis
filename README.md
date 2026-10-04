@@ -42,6 +42,7 @@ Some of the questions I explored were:
 - `Customer_shopping_behavior_powerBI_dashboard.pbix` – Power BI dashboard
 - `customer_shopping_analysis.sql` – SQL queries used for analysis
 - `customer_shopping_behavior.xlsx` – Dataset
+- `README.md` – Project documentation
 
 ## Key Learning
 
