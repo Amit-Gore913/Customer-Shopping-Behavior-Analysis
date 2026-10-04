@@ -38,6 +38,7 @@ Some of the questions I explored were:
 
 ## Project Files
 
+- `customer_shopping_analysis.ipynb` – Python data cleaning and analysis
 - `Customer_shopping_behavior_powerBI_dashboard.pbix` – Power BI dashboard
 - `customer_shopping_analysis.sql` – SQL queries used for analysis
 - `customer_shopping_behavior.xlsx` – Dataset
